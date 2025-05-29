@@ -1,0 +1,19 @@
+{
+  "name": "contenthub",
+  "version": "1.0.0",
+  "description": "Post and read blogs",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "contenthub"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "",
+  "license": "ISC"
+}
